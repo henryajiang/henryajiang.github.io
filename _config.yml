@@ -7,12 +7,12 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "Shanghai China"
-title                    : "Yunhui Jiang / The Road of My Life"
+locale                   : "en-US"
+title                    : "Yunhui Jiang / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Yunhui Jiang"
 description              : &description "Man proposes, god disposes!"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://henryajiang.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -27,7 +27,7 @@ author:
   bio              : "Man proposes, god disposes!"
   location         : "Shanghai, China"
   employer         : "ShanghaiTech University"
-  uri              : # URL
+  uri              : # https://henryajiang.github.io/
   email            : "jiangyh2022@@shanghaitech.edu.cn" 
 
   # Academic websites
